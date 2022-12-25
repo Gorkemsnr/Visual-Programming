@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\spor\spor salonu\spor salonu\bin\Debug\spor salonu.exe.config
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\spor\spor salonu\spor salonu\bin\Debug\spor salonu.exe
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\spor\spor salonu\spor salonu\bin\Debug\spor salonu.pdb
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\spor\spor salonu\spor salonu\bin\Debug\MySql.Data.dll
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\spor\spor salonu\spor salonu\bin\Debug\MySql.Data.xml
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\spor\spor salonu\spor salonu\obj\Debug\spor salonu.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\spor\spor salonu\spor salonu\obj\Debug\spor_salonu.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\spor\spor salonu\spor salonu\obj\Debug\spor salonu.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\spor\spor salonu\spor salonu\obj\Debug\spor salonu.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\spor\spor salonu\spor salonu\obj\Debug\spor salonu.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\spor\spor salonu\spor salonu\obj\Debug\spor salonu.exe
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\spor\spor salonu\spor salonu\obj\Debug\spor salonu.pdb
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\spor\spor salonu\spor salonu\obj\Debug\spor_salonu.Login.resources
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\spor\spor salonu\spor salonu\obj\Debug\spor_salonu.MainForm.resources
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\spor\spor salonu\spor salonu\obj\Debug\spor_salonu.UyeEkle.resources
